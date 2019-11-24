@@ -1,14 +1,12 @@
-# Status: early development phase
-
-# Tech stack:
-
-Content sharing platform (educational resources)
+# Content sharing platform (educational resources)
 
 Type of content: articles, documents, presentations, images, url's
 
 User base: Moroccan homeschooling parents
 
-Tools and technologies:
+# Status: early development phase
+
+# Tech stack:
  * [JHipster](https://www.jhipster.tech)
  * [Java 11](https://openjdk.java.net)
  * [Spring Boot 2.1](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
