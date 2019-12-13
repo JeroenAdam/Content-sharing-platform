@@ -29,5 +29,4 @@ User base: Moroccan homeschooling parents
  * (laptop dev) commit
  * (VPS 2 GB) [Jenkins pipeline](https://www.jhipster.tech/setting-up-ci-jenkins2) déclenche dans une VM sur laptop testeur (avec SSH tunnel ouvert), à cause de la [Angular AoT compilation](https://www.codingame.com/playgrounds/504/unleash-the-power-of-angular-aot-compilation) besoin >4GB mem., c'est lourd
  * envoi statut build vers Github + [OVH Private Registry](https://labs.ovh.com/private-registry) push (gratuit)
- * (VM sur laptop testeur) [Watchtower](https://github.com/containrrr/watchtower) > update container en cours
- * (optionnel, VM sur laptop testeur) app temporairement public via VPS (avec SSH tunnel ouvert)
+ * (VPS) [Watchtower](https://github.com/containrrr/watchtower) > update container en cours
