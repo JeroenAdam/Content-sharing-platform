@@ -16,17 +16,17 @@ User base: Moroccan homeschooling parents
  * [HikariCP](https://github.com/brettwooldridge/HikariCP) (connection pooling)
  * [Elasticsearch](https://github.com/elastic/elasticsearch)
  * [Caffeine](https://github.com/ben-manes/caffeine) (in-memory cache)
- * [Jenkins](https://jenkins.io) (automation server)
+ * [Jenkins](https://jenkins.io) (build server)
  * [Protractor](https://www.protractortest.org) (end-to-end testing)
   * [Docker](https://www.docker.com) (test & production)
 
 # Dev env:
  * compte Github Free (répo privé, max. 3 comptes)
  * installation en local (Git, OpenJDK 11, Node.js, Eclipse) https://www.jhipster.tech/installation
- * communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes sur VPS 2GB) et sur Github (issues)
+ * communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes sur VPS) et sur Github (issues)
 
 # Devops flow:
  * (laptop dev) commit
- * (VPS 2 GB) [Jenkins pipeline](https://www.jhipster.tech/setting-up-ci-jenkins2) déclenche dans une VM sur laptop testeur (avec SSH tunnel ouvert), à cause de la [Angular AoT compilation](https://www.codingame.com/playgrounds/504/unleash-the-power-of-angular-aot-compilation) besoin >4GB mem., c'est lourd
- * envoi statut build vers Github + [OVH Private Registry](https://labs.ovh.com/private-registry) push (gratuit)
+ * (VPS) [Jenkins pipeline](https://www.jhipster.tech/setting-up-ci-jenkins2) déclenche dans une VM sur laptop testeur (via reverse SSH tunnel), à cause de la [Angular AoT compilation](https://www.codingame.com/playgrounds/504/unleash-the-power-of-angular-aot-compilation) besoin 3~4 GB mém., c'est lourd
+ * [OVH Private Registry](https://labs.ovh.com/private-registry) (gratuit) push + publication statut build vers Github
  * (VPS) [Watchtower](https://github.com/containrrr/watchtower) > update container en cours
