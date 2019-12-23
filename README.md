@@ -23,10 +23,10 @@ User base: Moroccan homeschooling parents
 # Dev env:
  * compte Github Free (répo privé, max. 3 comptes)
  * installation en local (Git, OpenJDK 11, Node.js, Eclipse) https://www.jhipster.tech/installation
- * communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes sur VPS) et sur Github (issues)
+ * communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes) et sur Github (issues)
 
 # Devops flow:
  * (laptop dev) commit
  * (VPS) [Jenkins pipeline](https://www.jhipster.tech/setting-up-ci-jenkins2) déclenche dans une VM sur laptop testeur (via reverse SSH tunnel), à cause de la [Angular AoT compilation](https://www.codingame.com/playgrounds/504/unleash-the-power-of-angular-aot-compilation) besoin 3~4 GB mém., c'est lourd
- * [OVH Private Registry](https://labs.ovh.com/private-registry) (gratuit) push + publication statut build vers Github
+ * [OVH Private Registry](https://labs.ovh.com/private-registry) (gratuit) push + publication statut build sur Github
  * (VPS) [Watchtower](https://github.com/containrrr/watchtower) > update container en cours
