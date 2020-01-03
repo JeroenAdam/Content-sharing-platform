@@ -27,6 +27,6 @@ User base: Moroccan homeschooling parents
 
 # Devops flow:
  * (laptop dev) commit
- * (build serveur) [Jenkins pipeline](https://www.jhipster.tech/setting-up-ci-jenkins2) déclenche dans une VM sur laptop testeur (via reverse SSH tunnel), à cause de la [Angular AoT compilation](https://www.codingame.com/playgrounds/504/unleash-the-power-of-angular-aot-compilation) besoin 3~4 GB mém., c'est lourd
- * (build serveur) Docker Registry push [Harbor](https://github.com/goharbor/harbor) + publication statut build sur Github
+ * (build server) [Jenkins pipeline](https://www.jhipster.tech/setting-up-ci-jenkins2) déclenche dans une VM sur laptop testeur (via reverse SSH tunnel), à cause de la [Angular AoT compilation](https://www.codingame.com/playgrounds/504/unleash-the-power-of-angular-aot-compilation) besoin 3~4 GB mém., c'est lourd
+ * (build server) push vers le Docker registry ([Harbor](https://goharbor.io)) + publication statut build sur Github
  * (VPS) [Watchtower](https://github.com/containrrr/watchtower) > update container en cours
