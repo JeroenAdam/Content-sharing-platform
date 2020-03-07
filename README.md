@@ -13,7 +13,7 @@ User base: Moroccan homeschooling parents
  * [Angular 8](https://angular.io)
  * [MySQL 8](https://www.mysql.com)
  * [Liquibase](https://www.liquibase.org) (database version control)
- * [HikariCP](https://github.com/brettwooldridge/HikariCP) (connection pooling)
+ * [Keycloak](https://www.keycloak.org) (Identity and Access Management / SSO)
  * [Elasticsearch](https://github.com/elastic/elasticsearch)
  * [Caffeine](https://github.com/ben-manes/caffeine) (in-memory cache)
  * [Jenkins](https://jenkins.io) (build server)
