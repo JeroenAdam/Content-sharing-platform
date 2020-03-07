@@ -10,7 +10,7 @@ User base: Moroccan homeschooling parents
  * [JHipster](https://www.jhipster.tech)
  * [Java 11](https://openjdk.java.net)
  * [Spring Boot 2.1](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
- * [Angular 8](https://angular.io)
+ * [Angular 9](https://angular.io)
  * [MySQL 8](https://www.mysql.com)
  * [Liquibase](https://www.liquibase.org) (database version control)
  * [Keycloak](https://www.keycloak.org) (Identity and Access Management / SSO)
