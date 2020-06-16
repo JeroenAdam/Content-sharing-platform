@@ -10,7 +10,7 @@ User base: Moroccan homeschooling parents
  * [JHipster](https://www.jhipster.tech)
  * [Java 11](https://openjdk.java.net)
  * [Spring Boot 2.1](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
- * [Angular 9](https://angular.io)
+ * [React](https://reactjs.org)
  * [MySQL 8](https://www.mysql.com)
  * [Liquibase](https://www.liquibase.org) (database version control)
  * [Keycloak](https://www.keycloak.org) (Identity and Access Management / SSO)
@@ -27,6 +27,6 @@ User base: Moroccan homeschooling parents
 
 # Devops flow:
  * (laptop dev) commit
- * (build server) [Jenkins pipeline](https://www.jhipster.tech/setting-up-ci-jenkins2) déclenche dans une VM sur laptop testeur (via reverse SSH tunnel), à cause de la [Angular AoT compilation](https://www.codingame.com/playgrounds/504/unleash-the-power-of-angular-aot-compilation) besoin 3~4 GB mém., c'est lourd
+ * (build server) [Jenkins pipeline](https://www.jhipster.tech/setting-up-ci-jenkins2) déclenche dans une VM sur laptop testeur (via reverse SSH tunnel)
  * (build server) [Harbor](https://goharbor.io) > push vers le Docker registry / publication statut build sur Github
  * (VPS) [Watchtower](https://github.com/containrrr/watchtower) > update container en cours
