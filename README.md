@@ -21,7 +21,7 @@ User base: Moroccan homeschooling parents
   * [Docker](https://www.docker.com) (test & production)
 
 # Dev env:
- * compte Github Free (répo privé, max. 3 comptes)
+ * compte Github Free (répo privé, peut-être public dans le futur)
  * installation en local (Git, OpenJDK 11, Node.js, Eclipse) https://www.jhipster.tech/installation
  * communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes) et sur Github (issues)
 
