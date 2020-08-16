@@ -9,7 +9,7 @@ User base: Moroccan homeschooling parents
 # Tech stack:
  * [JHipster](https://www.jhipster.tech)
  * [Java 11](https://openjdk.java.net)
- * [Spring Boot 2.1](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
+ * [Spring Boot 2.3](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
  * [React](https://reactjs.org)
  * [MySQL 8](https://www.mysql.com)
  * [Liquibase](https://www.liquibase.org) (database version control)
@@ -18,7 +18,7 @@ User base: Moroccan homeschooling parents
  * [Caffeine](https://github.com/ben-manes/caffeine) (in-memory cache)
  * [Jenkins](https://jenkins.io) (build server)
  * [Protractor](https://www.protractortest.org) (end-to-end testing)
-  * [Docker](https://www.docker.com) (test & production)
+ * [Docker](https://www.docker.com) (test & production)
 
 # Dev env:
  * compte Github Free (répo privé, peut-être public dans le futur)
