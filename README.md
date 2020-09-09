@@ -8,7 +8,7 @@ User base: Moroccan homeschooling parents
 
 # Tech stack:
  * [JHipster](https://www.jhipster.tech)
- * [Java 11](https://openjdk.java.net)
+ * [Java 14](https://openjdk.java.net)
  * [Spring Boot 2.3](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
  * [React](https://reactjs.org)
  * [MySQL 8](https://www.mysql.com)
