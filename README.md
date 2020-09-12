@@ -22,7 +22,7 @@ User base: Moroccan homeschooling parents
 
 # Dev env:
  * compte Github Free (répo privé, peut-être public dans le futur)
- * installation en local (Git, OpenJDK 11, Node.js, Eclipse) https://www.jhipster.tech/installation
+ * installation en local (Git, OpenJDK 14, Node.js, Eclipse) https://www.jhipster.tech/installation
  * communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes) et sur Github (issues)
 
 # Devops flow:
