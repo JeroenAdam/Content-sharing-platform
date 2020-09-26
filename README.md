@@ -17,7 +17,7 @@ User base: Moroccan homeschooling parents
  * [Elasticsearch](https://github.com/elastic/elasticsearch)
  * [Caffeine](https://github.com/ben-manes/caffeine) (in-memory cache)
  * [Jenkins](https://jenkins.io) (build server)
- * [Protractor](https://www.protractortest.org) (end-to-end testing)
+ * [Cypress](https://www.cypress.io) (end-to-end testing)
  * [Docker](https://www.docker.com) (test & production)
 
 # Dev env:
