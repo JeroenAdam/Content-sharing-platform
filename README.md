@@ -15,6 +15,7 @@ User base: Moroccan homeschooling parents
  * [Liquibase](https://www.liquibase.org) (database version control)
  * [Keycloak](https://www.keycloak.org) (Identity and Access Management / SSO)
  * [Elasticsearch](https://github.com/elastic/elasticsearch)
+ * [AWS S3 object storage](https://aws.amazon.com/s3)
  * [Caffeine](https://github.com/ben-manes/caffeine) (in-memory cache)
  * [Jenkins](https://jenkins.io) (build server)
  * [Cypress](https://www.cypress.io) (end-to-end testing)
