@@ -11,7 +11,7 @@ User base: Moroccan homeschooling parents
  * [Java 14](https://openjdk.java.net)
  * [Spring Boot 2.4](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
  * [React](https://reactjs.org)
- * [MySQL 8](https://www.mysql.com)
+ * [MySQL](https://www.mysql.com)
  * [Liquibase](https://www.liquibase.org) (database version control)
  * [Keycloak](https://www.keycloak.org) (Identity and Access Management / SSO)
  * [Elasticsearch](https://github.com/elastic/elasticsearch)
