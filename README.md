@@ -6,6 +6,12 @@ User base: Moroccan homeschooling parents
 
 ### Status: early development phase
 
+- [x] Design stage
+- [x] Deploy CI/CD, Dockerize the (boilerplate) backend API and frontend app, Deploy prod server
+- [ ] Develop the backend API
+- [ ] Develop the frontend app
+- [ ] Develop End-to-end testing
+
 ### Tech stack:
  * [JHipster](https://www.jhipster.tech)
  * [Java 14](https://openjdk.java.net)
