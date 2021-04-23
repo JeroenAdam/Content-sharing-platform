@@ -1,12 +1,12 @@
-# Content sharing platform (educational resources)
+## Content sharing platform (educational resources)
 
 Type of content: articles, documents, presentations, images, url's
 
 User base: Moroccan homeschooling parents
 
-# Status: early development phase
+## Status: early development phase
 
-# Tech stack:
+## Tech stack:
  * [JHipster](https://www.jhipster.tech)
  * [Java 14](https://openjdk.java.net)
  * [Spring Boot 2.4](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
@@ -21,12 +21,12 @@ User base: Moroccan homeschooling parents
  * [Cypress](https://www.cypress.io) (end-to-end testing)
  * [Docker](https://www.docker.com) (test & production)
 
-# Dev env:
+## Dev env:
  * compte Github Free (répo privé, peut-être public dans le futur)
  * installation en local (Git, OpenJDK 14, Node.js, Eclipse) https://www.jhipster.tech/installation
  * communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes) et sur Github (issues)
 
-# Devops flow:
+## Devops flow:
  * (laptop dev) commit
  * (build server) [Jenkins pipeline](https://www.jhipster.tech/setting-up-ci-jenkins2) déclenche dans une VM sur laptop testeur (via reverse SSH tunnel)
  * (build server) [Harbor](https://goharbor.io) > push vers le Docker registry / publication statut build sur Github
