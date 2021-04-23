@@ -10,7 +10,7 @@ User base: Moroccan homeschooling parents
 - [x] Deploy CI/CD, Dockerize the (boilerplate) backend API and frontend app, Deploy prod server
 - [ ] Develop the backend API
 - [ ] Develop the frontend app
-- [ ] Develop End-to-end testing
+- [ ] Develop end-to-end testing
 
 ### Tech stack:
  * [JHipster](https://www.jhipster.tech)
