@@ -10,6 +10,7 @@
 - [ ] Develop the backend API
 - [ ] Develop the frontend app
 - [ ] Develop end-to-end testing
+- [x] Automated Docker container deploy on prod server
 
 ### Tech stack:
  * [JHipster](https://www.jhipster.tech)
