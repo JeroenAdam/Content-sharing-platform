@@ -33,6 +33,6 @@
 
 ### Devops flow:
  * (laptop dev) git commit
- * (build server) [Jenkins pipeline](https://www.jhipster.tech/setting-up-ci-jenkins2) déclenche dans une VM sur laptop dev/testeur (via reverse SSH tunnel)
+ * (build server) [Jenkins pipeline](https://github.com/JeroenAdam/ta3alama/blob/master/Jenkinsfile) déclenche dans une VM sur laptop dev/testeur (via reverse SSH tunnel)
  * (build server) [Harbor](https://goharbor.io) > push vers le Docker registry / publication statut build sur Github
  * (prod) [Watchtower](https://github.com/containrrr/watchtower) > update container en cours
