@@ -32,7 +32,7 @@
  * communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes) et sur Github (issues)
 
 ### Devops flow:
- * (laptop dev) commit
+ * (laptop dev) git commit
  * (build server) [Jenkins pipeline](https://www.jhipster.tech/setting-up-ci-jenkins2) déclenche dans une VM sur laptop testeur (via reverse SSH tunnel)
  * (build server) [Harbor](https://goharbor.io) > push vers le Docker registry / publication statut build sur Github
  * (VPS) [Watchtower](https://github.com/containrrr/watchtower) > update container en cours
