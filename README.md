@@ -30,7 +30,7 @@
 ### Dev env:
  * compte Github Free (répo privé, peut-être public dans le futur)
  * [installation](https://www.jhipster.tech/installation) en local (Git, OpenJDK 14, Node.js, Eclipse)
- * communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes) et Kanban (Github)
+ * communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes) et [Kanban](https://github.com/JeroenAdam/Content-sharing-platform/projects/1) (Github)
 
 ### Devops flow:
  * (laptop dev) git commit
