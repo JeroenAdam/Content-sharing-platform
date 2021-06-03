@@ -1,13 +1,13 @@
 ## Content sharing platform (educational resources)
 
- * Type of content: articles, documents, presentations, images, url's
- * User base: Moroccan homeschooling parents
+ * Type of content: *articles, documents, presentations, images, url's*
+ * User base: *Moroccan homeschooling parents*
 
 ### Status: early development phase
 
 - [x] Design stage
 - [x] Deploy CI/CD, Dockerize the (boilerplate) backend API and frontend app, Deploy prod server
-- [ ] *Develop the backend API*
+- [ ] **Develop the backend API**
 - [ ] Develop the frontend app
 - [ ] Develop end-to-end testing
 - [x] Automated Docker container deploy on prod server
