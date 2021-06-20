@@ -1,4 +1,4 @@
-## Content sharing platform (educational resources)
+## Content Sharing Platform (educational resources)
 
  * Type of content: *articles, documents, presentations, images, url's*
  * User base: *Moroccan homeschooling parents*
