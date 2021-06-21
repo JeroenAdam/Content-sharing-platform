@@ -2,8 +2,8 @@
 
  * Type of content: *articles, documents, presentations, images, url's, announcements*
  * User base: *Moroccan homeschooling parents*
- * Use cases: *search on keyword or explore* (by subject / age range / resource type / key competency)
- * Key features: *contribute, upvote, download or share resources, user profile, save resources and search actions to favorites, moderator dashboard*
+ * Use cases: search on keyword or explore (by *subject / age range / resource type / key competency*)
+ * Key features: contribute, upvote, download or share resources, user profile, save resources and search actions to favorites, moderator dashboard
 
 ### Status: early development phase
 
