@@ -1,9 +1,9 @@
 ## Content Sharing Platform (educational resources)
 
+ * Description: *a platform allowing (Moroccan) homeschooling parents to submit, upvote, download or share educational resources via an elegant UI.*
  * Type of content: *articles, documents, presentations, images, url's, announcements*
- * User base: *Moroccan homeschooling parents*
- * Use cases: search on keyword or explore (by *subject / age range / resource type / key competency*)
- * Key features: contribute, upvote, download or share resources, user profile, save resources and search actions to favorites, moderator dashboard
+ * Use cases: *search resources on keyword or explore (by subject / age range / resource type / key competency), store your own resources*
+ * Key features: *submit, upvote, download or share resources, user profile, save to favorites (resources and search actions), moderator dashboard*
 
 ### Status: early development phase
 
@@ -30,9 +30,9 @@
  * [Docker](https://www.docker.com) (test & production)
 
 ### Dev env:
- * compte Github Free (répo privé, peut-être public dans le futur)
- * [installation](https://www.jhipster.tech/installation) en local (Git, OpenJDK 14, Node.js, Eclipse)
- * communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes) et [Kanban](https://github.com/JeroenAdam/Content-sharing-platform/projects/1) (Github)
+ * Compte Github Free (répo privé, peut-être public dans le futur)
+ * [Installation](https://www.jhipster.tech/installation) en local (Git, OpenJDK 14, Node.js, Eclipse)
+ * Communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes) et [Kanban](https://github.com/JeroenAdam/Content-sharing-platform/projects/1) (Github)
 
 ### Devops flow:
  * (laptop dev) git commit
