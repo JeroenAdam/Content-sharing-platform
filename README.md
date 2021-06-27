@@ -14,7 +14,7 @@
 - [ ] Develop end-to-end testing
 - [x] Automated Docker container deploy on prod server
 
-![design](//images.ctfassets.net/miz0cgjcqgye/4npYG5TiwIaNqk4ASIADAZ/97f52b4e2f0daeddc162c5058760141c/ta3lim.png)
+![design](images.ctfassets.net/miz0cgjcqgye/4npYG5TiwIaNqk4ASIADAZ/97f52b4e2f0daeddc162c5058760141c/ta3lim.png)
 
 ### Tech stack:
  * [JHipster](https://www.jhipster.tech)
