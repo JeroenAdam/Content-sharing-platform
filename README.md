@@ -16,7 +16,7 @@
 
 ### Design:
 
-![design](http://images.ctfassets.net/miz0cgjcqgye/4npYG5TiwIaNqk4ASIADAZ/97f52b4e2f0daeddc162c5058760141c/ta3lim.png)
+![design](http://images.ctfassets.net/miz0cgjcqgye/4npYG5TiwIaNqk4ASIADAZ/59383ffc195a03820e49c46e1fa7dd6d/ta3lim.png)
 
 ### Tech stack:
  * [JHipster](https://www.jhipster.tech)
