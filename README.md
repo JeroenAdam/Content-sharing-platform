@@ -3,7 +3,7 @@
  * *Description*: a platform allowing (Moroccan) homeschooling parents to search, submit, upvote, download or share educational resources via an elegant UI.
  * *Type of content*: articles, documents, presentations, images, url's, announcements
  * *Use cases*: search resources on keyword or explore (by subject / age range / resource type / key competency), store your own resources
- * *Key features*: submit, upvote, download or share resources, user profile, save to favorites (resources and search actions), user / moderator dashboard
+ * *Key features*: search, submit, upvote, download or share resources, user profile, save to favorites (resources and search actions), user / moderator dashboard
 
 ### Status: early development phase
 
