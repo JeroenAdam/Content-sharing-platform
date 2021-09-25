@@ -21,7 +21,7 @@
 ### Tech stack:
  * [JHipster](https://www.jhipster.tech)
  * [Java 14](https://openjdk.java.net)
- * [Spring Boot 2.4](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
+ * [Spring Boot 2.5](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
  * [React](https://reactjs.org)
  * [MySQL](https://www.mysql.com)
  * [Liquibase](https://www.liquibase.org) (database version control)
