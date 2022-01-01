@@ -20,7 +20,7 @@
 
 ### Tech stack:
  * [JHipster](https://www.jhipster.tech)
- * [Java 14](https://openjdk.java.net)
+ * [Java 15](https://openjdk.java.net)
  * [Spring Boot 2.5](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
  * [React](https://reactjs.org)
  * [MySQL](https://www.mysql.com)
