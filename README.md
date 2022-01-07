@@ -33,9 +33,13 @@
  * [Cypress](https://www.cypress.io) (end-to-end testing)
  * [Docker](https://www.docker.com) (test & production)
 
+###  Source code:
+
+Work in progress: https://github.com/JeroenAdam/ta3lim2022
+
 ### Dev env:
  * Compte Github Free (répo privé, peut-être public dans le futur)
- * [Installation](https://www.jhipster.tech/installation) en local (Git, OpenJDK 14, Node.js, Eclipse)
+ * [Installation](https://www.jhipster.tech/installation) en local (Git, OpenJDK 15, Node.js, Eclipse)
  * Communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes) et [Kanban](https://github.com/JeroenAdam/Content-sharing-platform/projects/1) (Github)
 
 ### Devops flow:
