@@ -35,7 +35,7 @@
 
 ###  Source code:
 
-Work in progress: https://github.com/JeroenAdam/ta3lim2022
+Work in progress: https://github.com/JeroenAdam/ta3lim
 
 ### Dev workflow:
  * Compte Github Free (répo privé, peut-être public dans le futur)
