@@ -37,13 +37,10 @@
 
 Work in progress: https://github.com/JeroenAdam/ta3lim
 
-### Dev workflow:
- * Compte Github Free (répo privé, peut-être public dans le futur)
- * [Installation](https://www.jhipster.tech/installation) en local (Git, OpenJDK 15, Node.js, Eclipse)
- * Communication interne avec [RocketChat](https://rocket.chat) (hébergé nous-mêmes) et [Kanban](https://github.com/JeroenAdam/Content-sharing-platform/projects/1) (Github)
+### Want to contribute to this project?
+If you have one of the below skills and want to contribute, take a look at this [Kanban](https://github.com/JeroenAdam/Content-sharing-platform/projects/1) and don't hesitate to [contact me](https://www.adambahri.com/contact)
 
-### Devops workflow:
- * (laptop dev) git commit
- * (build server) [Jenkins pipeline](https://github.com/JeroenAdam/ta3alama/blob/master/Jenkinsfile) déclenche dans une VM sur laptop dev/testeur (via reverse SSH tunnel)
- * (build server) [Harbor](https://goharbor.io) > push vers le Docker registry / publication statut build sur Github
- * (prod) [Watchtower](https://github.com/containrrr/watchtower) > update container en cours
+ * Backend development (Java/Spring/Elasticsearch)
+ * Frontend development (React)
+ * Devops (Jenkins/Docker)
+ * Knowledge mgmt. (collaboration tools: [RocketChat](https://rocket.chat) and Github)
