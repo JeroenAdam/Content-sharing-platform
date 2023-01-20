@@ -42,5 +42,4 @@ If you have one of the below skills and want to contribute, take a look at this 
 
  * Backend development (Java/Spring Boot/Elasticsearch)
  * Frontend development (React)
- * Devops (Jenkins/Docker)
- * Knowledge mgmt. (collaboration tools: [RocketChat](https://rocket.chat) and Github)
+ * UI/UX design (Figma or ...)
