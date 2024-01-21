@@ -14,9 +14,23 @@
 - [ ] Develop end-to-end testing
 - [x] Automated Docker container deploy on prod server
 
+### Status report:
+
+The web app I am developing allows educators to browse, discover, store and share various educational resources such as articles, documents, presentations, etc. I'm using Java and React while practicing DevOps. The app will help educators facilitate children's learning.
+
+So far, I completed the research and design phase. I started developing the backend API and included the entities you would expect such as EducationalResource, Subject, Topic, Skill, etc. I came up with a [basic prototype](https://login.adambahri.com:1112/realms/jhipster/protocol/openid-connect/auth?response_type=code&client_id=web_app&scope=openid%20profile%20email&redirect_uri=https://app.adambahri.com:1114/login&login_hint=user&password=cca86cd5b97b) and I dockerized the web app. 
+
+I am currently working on the frontend (multipage React app), including a submit form using React Hook Forms and PrimeReact UI component library. As for the backend, I'm progressing with features such as notifications, voting, favorites, and sharing.
+
+There is still much to be done. I'll continue working on the submit form, search box, search results, side panel (faceted search), navigation and user/moderator dashboard. I also plan to implement messaging and improve the search experience by adding auto-completion and semantic search.
+
+I aim to enter beta testing phase next year and I'll create an online community to gather feedback.
+
+Future plans: improve search capabilities by integrating AI language models, implement a workspace giving access to your notes and chat discussions in the editor, implement end-to-end testing and scalability testing.
+
 ### Design:
 
-![design](http://images.ctfassets.net/miz0cgjcqgye/4npYG5TiwIaNqk4ASIADAZ/4790d9a3fd092c41a2b5d334338c9955/ta3limnew.png)
+![design](hhttps://www.adambahri.com/_gatsby/image/d330e77cdae0169691b440064f51192c/ffef2518b6c846a0fe4d40adebf97e19/ta3lim2024.webp)
 
 ### Tech stack:
  * [JHipster](https://www.jhipster.tech)
@@ -42,4 +56,4 @@ If you have one of the below skills and want to contribute, take a look at this 
 
  * Backend development (Java/Spring Boot/Elasticsearch)
  * Frontend development (React)
- * UI/UX design (Figma or ...)
+ * UI/UX design
