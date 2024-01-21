@@ -9,6 +9,8 @@
 
 ![design](https://github.com/JeroenAdam/Content-sharing-platform/assets/16437621/4b9ab7c1-9eae-42ea-abc1-d2a079352c70)
 
+![editor2024](https://github.com/JeroenAdam/Content-sharing-platform/assets/16437621/022710d9-d01e-437b-bae6-64fb3477c36f)
+
 ### Status: early development phase
 
 - [x] Design stage
