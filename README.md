@@ -26,7 +26,7 @@ So far, I completed the research and design phase. I started developing the back
 
 I am currently working on the frontend (multipage React app), including a submit form using React Hook Forms and PrimeReact UI component library. As for the backend, I'm progressing with features such as notifications, voting, favorites, and sharing.
 
-There is still much to be done. I'll continue working on the submit form, search box, search results, side panel (faceted search), navigation and user/moderator dashboard. I also plan to implement messaging and improve the search experience by adding auto-completion and semantic search.
+There is still much to be done. I'll continue working on the submit form, search box, search results, side panel (faceted search), navigation and user/moderator dashboard. I also plan to implement note taking and a better search experience by adding auto-completion and semantic search.
 
 I aim to enter beta testing phase next year and I'll create an online community to gather feedback.
 
