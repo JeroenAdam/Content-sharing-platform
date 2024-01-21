@@ -5,6 +5,10 @@
  * *Use cases*: browse resources, search on keyword, refined search (subject, topic, age range, key competency), store your resources, share with others
  * *Key features*: great search experience, paginated results, submit / upvote / download / share resources, user profile, favorites (resources & search actions), user / moderator dashboard
 
+### Design:
+
+![design](https://github.com/JeroenAdam/Content-sharing-platform/assets/16437621/4b9ab7c1-9eae-42ea-abc1-d2a079352c70)
+
 ### Status: early development phase
 
 - [x] Design stage
@@ -27,10 +31,6 @@ There is still much to be done. I'll continue working on the submit form, search
 I aim to enter beta testing phase next year and I'll create an online community to gather feedback.
 
 Future plans: improve search capabilities by integrating AI language models, implement a workspace giving access to your notes and chat discussions in the editor, implement end-to-end testing and scalability testing.
-
-### Design:
-
-![design](hhttps://www.adambahri.com/_gatsby/image/d330e77cdae0169691b440064f51192c/ffef2518b6c846a0fe4d40adebf97e19/ta3lim2024.webp)
 
 ### Tech stack:
  * [JHipster](https://www.jhipster.tech)
