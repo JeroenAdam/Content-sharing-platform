@@ -1,9 +1,9 @@
 ## Content Sharing Platform (educational resources)
 
- * *Description*: a platform allowing educators to search, submit, upvote, download or share educational resources via an elegant UI.
- * *Type of content*: articles, documents, presentations, images, url's, announcements
- * *Use cases*: browse resources, search on keyword, refined search (subject, topic, age range, key competency), store your resources, share with others
- * *Key features*: great search experience, paginated results, submit / upvote / download / share resources, user profile, favorites (resources & search actions), user / moderator dashboard
+ * *Description*: a platform allowing educators to search, submit, download or share educational resources
+ * *Type of content*: articles, documents, presentations, images, URLs, announcements
+ * *Use cases*: browse educational resources, search & discover, store your resources, share w/ others
+ * *Key features*: great search experience, relevant results, submit / upvote / download / share resources, user profile, favorites (resources & search actions), user / moderator dashboard
 
 ### Design:
 
