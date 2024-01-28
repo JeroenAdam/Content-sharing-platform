@@ -32,7 +32,7 @@ There is still much to be done. I'll continue working on the submit form, search
 
 I aim to enter beta testing phase next year and I'll create an online community to gather feedback.
 
-Future plans: improve search capabilities by integrating AI language models, implement a workspace giving access to your notes and chat discussions in the editor, implement end-to-end testing and scalability testing.
+Future plans: improve search capabilities by integrating AI language models, implement a workspace for editors, implement end-to-end testing and scalability testing.
 
 ### Tech stack:
  * [JHipster](https://www.jhipster.tech)
