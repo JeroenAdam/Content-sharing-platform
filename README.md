@@ -9,7 +9,7 @@
 
 ![design](https://github.com/JeroenAdam/Content-sharing-platform/assets/16437621/3e004c2a-00c0-4f08-bdbc-bc4102e8c615)
 
-![editor2024](https://github.com/JeroenAdam/Content-sharing-platform/assets/16437621/022710d9-d01e-437b-bae6-64fb3477c36f)
+![workspace](https://github.com/JeroenAdam/Content-sharing-platform/assets/16437621/bde4845c-5494-468f-b200-4dc7f9f1643e)
 
 ### Status: early development phase
 
