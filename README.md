@@ -53,7 +53,7 @@ Future plans: improve search capabilities by integrating AI language models, end
 
 Work in progress: https://github.com/JeroenAdam/ta3lim
 
-### Want to contribute to this project?
+### Contributing
 If you have one of the below skills and want to contribute, take a look at this [Kanban](https://github.com/JeroenAdam/Content-sharing-platform/projects/1) and don't hesitate to [contact me](https://www.adambahri.com/contact)
 
  * Backend development (Java/Spring Boot/Elasticsearch)
