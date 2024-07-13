@@ -7,7 +7,7 @@
 
 ### Design:
 
-![design](https://github.com/user-attachments/assets/f5f93d4e-d434-4dd1-86fe-ad165fa1ba9e)
+![design](https://github.com/user-attachments/assets/583f0dba-3b9a-4d2a-90dc-1c6b77a1ffef)
 
 ![workspace](https://github.com/JeroenAdam/Content-sharing-platform/assets/16437621/701e0a77-b5ee-4e5e-9ef4-9e0b83e0e61b)
 
