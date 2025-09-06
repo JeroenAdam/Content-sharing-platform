@@ -7,9 +7,9 @@
 
 ### Design:
 
-![design](https://github.com/user-attachments/assets/d38dd94d-8dfd-45ae-964f-e70e3e15d5d3)
+![design](https://github.com/user-attachments/assets/66e7f3b0-adcd-4daf-a395-a7bc68eef88a))
 
-![workspace](https://github.com/JeroenAdam/Content-sharing-platform/assets/16437621/701e0a77-b5ee-4e5e-9ef4-9e0b83e0e61b)
+
 
 ### Status: early development phase
 
