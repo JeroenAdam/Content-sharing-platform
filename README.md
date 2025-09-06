@@ -7,9 +7,9 @@
 
 ### Design:
 
-![design](https://github.com/user-attachments/assets/66e7f3b0-adcd-4daf-a395-a7bc68eef88a))
+![design](https://github.com/user-attachments/assets/66e7f3b0-adcd-4daf-a395-a7bc68eef88a)
 
-
+![editor](https://github.com/user-attachments/assets/2b7a02b9-c7e3-45bf-86f9-be5e09355dd3)
 
 ### Status: early development phase
 
