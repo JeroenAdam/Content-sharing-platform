@@ -7,7 +7,7 @@
 
 ### Design:
 
-![design](https://github.com/user-attachments/assets/d6a60d9b-d645-40cc-bb93-e608a6160ca6)
+![design](https://github.com/user-attachments/assets/3996165c-32fe-402a-b4be-ddbc8ca6e5a3)
 
 ![editor](https://github.com/user-attachments/assets/2b7a02b9-c7e3-45bf-86f9-be5e09355dd3)
 
@@ -15,8 +15,9 @@
 
 - [x] Design stage
 - [x] Deploy CI/CD, Dockerize the (boilerplate) backend API and frontend app, Deploy prod server
-- [x] Develop the backend API https://github.com/JeroenAdam/ta3lim
-- [ ] **Develop the frontend app**
+- [x] Develop the backend API
+- [x] Develop the frontend
+- [ ] **Develop more features: upvoting, favorites, moderation, notifications and user/moderator dashboards**.
 - [ ] Develop end-to-end testing
 - [x] Automated Docker container deploy on prod server
 
