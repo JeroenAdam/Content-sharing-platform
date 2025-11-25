@@ -12,7 +12,7 @@
 ![editor](https://github.com/user-attachments/assets/800706da-49df-41bf-8405-bce7490aca20)
 
 ### Status: live on Talim.app
-try the demo on [talim.app](https://talim.app)
+Try the demo on [talim.app](https://talim.app)
 
 - [x] Design stage
 - [x] Deploy CI/CD, Dockerize the (boilerplate) backend API and frontend app, Deploy prod server
