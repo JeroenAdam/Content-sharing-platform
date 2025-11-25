@@ -5,8 +5,7 @@
  * *Use cases*: browse educational resources, search & discover, store your resources, share w/ others
  * *Key features*: great search experience, relevant results, submit / upvote / download / share resources, user profile, favorites (resources & search actions), user / moderator dashboard
 
-### Design:<img width="1451" height="790" alt="talimform" src="" />
-
+### Design:
 
 ![design](https://github.com/user-attachments/assets/3996165c-32fe-402a-b4be-ddbc8ca6e5a3)
 
