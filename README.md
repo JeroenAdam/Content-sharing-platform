@@ -11,7 +11,8 @@
 
 ![editor](https://github.com/user-attachments/assets/2b7a02b9-c7e3-45bf-86f9-be5e09355dd3)
 
-### Status: early development phase
+### Status: live on Talim.app
+try the demo on [talim.app](https://talim.app)
 
 - [x] Design stage
 - [x] Deploy CI/CD, Dockerize the (boilerplate) backend API and frontend app, Deploy prod server
