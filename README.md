@@ -5,11 +5,12 @@
  * *Use cases*: browse educational resources, search & discover, store your resources, share w/ others
  * *Key features*: great search experience, relevant results, submit / upvote / download / share resources, user profile, favorites (resources & search actions), user / moderator dashboard
 
-### Design:
+### Design:<img width="1451" height="790" alt="talimform" src="" />
+
 
 ![design](https://github.com/user-attachments/assets/3996165c-32fe-402a-b4be-ddbc8ca6e5a3)
 
-![editor](https://github.com/user-attachments/assets/2b7a02b9-c7e3-45bf-86f9-be5e09355dd3)
+![editor](https://github.com/user-attachments/assets/800706da-49df-41bf-8405-bce7490aca20)
 
 ### Status: live on Talim.app
 try the demo on [talim.app](https://talim.app)
