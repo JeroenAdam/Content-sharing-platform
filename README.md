@@ -51,5 +51,5 @@ Future plans: integrate a Large Language Model for better discoverability of edu
 ###  Source code:
 Currently not open source
 
-### Contributing
+### Contributing:
 Open to collaboration, don't hesitate to [contact me](https://www.adambahri.com/contact)
