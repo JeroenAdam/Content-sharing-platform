@@ -24,40 +24,32 @@ try the demo on [talim.app](https://talim.app)
 
 ### Status report:
 
-The web app I am developing allows educators to browse, discover, store and share various educational resources such as articles, documents, presentations, etc. I'm using Java and React while practicing DevOps. The app will help educators facilitate children's learning.
+So far, I've completed the research and design phase and I developed a [basic prototype](https://login.adambahri.com:1112/realms/jhipster/protocol/openid-connect/auth?response_type=code&client_id=web_app&scope=openid%20profile%20email&redirect_uri=https://app.adambahri.com:1114/login&login_hint=user&password=cca86cd5b97b) and I dockerized the web app. .
 
-So far, I completed the research and design phase. I started developing the backend API and included the entities you would expect such as EducationalResource, Subject, Topic, Skill, etc. I came up with a [basic prototype](https://login.adambahri.com:1112/realms/jhipster/protocol/openid-connect/auth?response_type=code&client_id=web_app&scope=openid%20profile%20email&redirect_uri=https://app.adambahri.com:1114/login&login_hint=user&password=cca86cd5b97b) and I dockerized the web app. 
+I am currently working on the UI (React). As for the backend, I'm progressing with features such voting and favorites.
 
-I am currently working on the frontend (multipage React app), including a submit form using React Hook Forms and PrimeReact UI component library. As for the backend, I'm progressing with features such as notifications, voting, favorites, and sharing.
+There are quite some other features still to be done. I'll continue working on the filters, navigation, moderation, notifications and user/moderator dashboards. I'm planning for even a better search experience by adding semantic search and a better editor with inbuilt note-taking.
 
-There is still much to be done. I'll continue working on the submit form, search box, search results, side panel (faceted search), navigation and user/moderator dashboard. I'm also planning for a better search experience by adding semantic search and a better author workspace with inbuilt note taking.
+I'm not in a hurry so there is no timeline, eventually I'll publish educational resources that are relevant to me but for now I'm focusing on the technical aspects. Maybe one day I'll create an online community to gather feedback.
 
-I aim to enter beta testing phase at the end of the year and I'll create an online community to gather feedback.
-
-Future plans: improve search capabilities by integrating AI language models, end-to-end testing and scalability testing.
+Future plans: integrate a Large Language Model for better discoverability of educational resources.
 
 ### Tech stack:
  * [JHipster](https://www.jhipster.tech)
  * [Java 17](https://openjdk.java.net)
- * [Spring Boot 2.7](https://spring.io/projects/spring-boot), [Spring Content](https://paulcwarren.github.io/spring-content)
+ * [Spring Boot](https://spring.io/projects/spring-boot)
  * [React](https://reactjs.org)
- * [MySQL](https://www.mysql.com)
+ * [PostgreSQL](https://www.postgresql.org)
  * [Liquibase](https://www.liquibase.org) (database version control)
  * [Keycloak](https://www.keycloak.org) (Identity and Access Management / SSO)
  * [Elasticsearch](https://github.com/elastic/elasticsearch)
  * [AWS S3 storage](https://aws.amazon.com/s3)
- * [Caffeine](https://github.com/ben-manes/caffeine) (in-memory cache)
  * [Jenkins](https://jenkins.io) (build server)
- * [Cypress](https://www.cypress.io) (end-to-end testing)
+ * [Playwright](https://playwright.dev) (end-to-end testing)
  * [Docker](https://www.docker.com) (test & production)
 
 ###  Source code:
-
-Work in progress: https://github.com/JeroenAdam/ta3lim
+Currently not open source
 
 ### Contributing
-If you have one of the below skills and want to contribute, take a look at this [Kanban](https://github.com/JeroenAdam/Content-sharing-platform/projects/1) and don't hesitate to [contact me](https://www.adambahri.com/contact)
-
- * Backend development (Java/Spring Boot/Elasticsearch)
- * Frontend development (React)
- * UI/UX design
+Open to collaboration, don't hesitate to [contact me](https://www.adambahri.com/contact)
