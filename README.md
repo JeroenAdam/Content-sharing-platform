@@ -24,7 +24,7 @@ Try the demo on [talim.app](https://talim.app)
 
 ### Status report:
 
-So far, I've completed the research and design phase and I developed a [basic prototype](https://login.adambahri.com:1112/realms/jhipster/protocol/openid-connect/auth?response_type=code&client_id=web_app&redirect_uri=https://app.adambahri.com:1114&login_hint=user&password=user) and I dockerized the web app. .
+So far, I've completed the research and design phase and I developed a [basic prototype](https://login.adambahri.com:1112/realms/jhipster/protocol/openid-connect/auth?response_type=code&client_id=web_app&redirect_uri=https://app.adambahri.com:1114&login_hint=user&password=user) and I dockerized the web app.
 
 I am currently working on the UI (React). As for the backend, I'm progressing with features such voting and favorites.
 
